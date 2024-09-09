@@ -7,15 +7,12 @@ internal class Program
 {
     static void Main(string[] args)
     {        
-        int japp = 20; 
-        int dajm = 20;
-        int kola = 20;
-        int lakris = 20;
-        int centerX = Console.WindowHeight / 2;
-        int centerY = Console.WindowHeight / 2;
-        
+        int japp = 10; 
+        int dajm = 10;
+        int kola = 10;
+        int lakris = 10;
+                
         bool loop = true;
-
         while (loop)
         {
             Console.Clear();
