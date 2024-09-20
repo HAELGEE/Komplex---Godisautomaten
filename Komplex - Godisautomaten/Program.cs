@@ -16,7 +16,8 @@ internal class Program
         while (loop)
         {
             Console.Clear();
-            
+
+            Console.WriteLine("==== GODISAUTOMATEN====\n");
             Console.Write($"Lucka nummer 1. Här finns det ");
             if (japp > 0)
             {
